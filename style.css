@@ -6,12 +6,13 @@
 }
 body {
   background-color: #000000;
+  overflow: hidden;
 }
 
 img {
   padding: 20px;
   width: 1000px;
-  height: 600px;
+  height: 500px;
   display: block;
   margin: 0 auto;
   border-radius: 20px;
